@@ -38,7 +38,7 @@ class App extends Component {
         </div>
         <Announcement
           title="Here is your component"
-          subtitle="The best announcement component for React is finally here. Install it in all your projects."
+          subtitle="The best announcemenrt component for React is finally here. Install it in all your projects."
           link="https://github.com/kristofferandreasen/react-announcement"
           imageSource={Logo}
           closeIconSize={25}
